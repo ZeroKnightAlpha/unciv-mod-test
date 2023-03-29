@@ -1,0 +1,32 @@
+[
+
+	{
+		"name": "Junk Ship",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Song",
+		"replaces": "Galleass",
+		"movement": 4,
+		"strength": 15,
+		"rangedStrength": 18,
+		"cost": 112,
+		"requiredTech": "Sailing",
+		"uniques": ["Great Generals I","Unit will heal every turn, even if it performs an action", "[+50]% Strength <vs [Wounded] units>"],
+		"obsoleteTech": "Astronomy",
+		"attackSound": "arrow"
+	},
+    {
+		"name": "Fire Lancer",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+        "uniqueTo": "Song",
+		"movement": 2,
+		"strength": 28,
+		"cost": 125,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+        "promotions": ["FireLancer"],
+		"attackSound": "shot"
+	},
+	
+]
