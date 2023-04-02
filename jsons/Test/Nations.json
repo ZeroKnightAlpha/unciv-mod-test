@@ -1,35 +1,16 @@
-[
+[{
+    "name": "Song Dynasty",
+    "leaderName": "Emperor Taizu",
+    "adjective": ["Song"],
+    "startBias": ["River"],
+    "preferredVictoryType": "Cultural",
 
-	
-    {
-		"name": "Song",
-		"leaderName": "Zhao Kuangyin",
-		"adjective": ["Chinese"],
-		"preferredVictoryType": "Scientific",
+    "startIntroPart1": "Hail to thee, Emperor Taizu, founder of the illustrious Song Dynasty! Your military prowess and strategic brilliance have brought unity to the realm and ushered in a golden age of culture and commerce.",
+    "startIntroPart2": "As your people look to the future with hope and pride, will you guide them to even greater heights of prosperity and enlightenment? Will you build a civilization that will stand the test of time?",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+    "declaringWar": "The time for diplomacy has passed! Prepare for battle!",
 
-        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
-		"attacked": "Fool! I will disembowel you all!",
-		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
-		"introduction": "Greetings, I am Emperor Zhao Kuangyin. China desires peace and development. You leave us alone, we'll leave you alone.",
-		"neutralHello": "How are you today?",
-		"hateHello": "Oh. It's you?",
-		"tradeRequest": "My friend, do you think you can accept this request?",
+    "enteringIndustrial": "The world is changing rapidly, and the Song Dynasty must keep pace with the times. Let us embrace the power of industry and innovation to secure our place in the world!",
 
-        "outerColor": [50, 112, 84],
-        "innerColor": [255,255,255],
-
-		"favouredReligion": "Taoism",
-		"uniqueName": "Art of War",
-		"uniques": ["[+1 Food] from every specialist [in all cities]", "Starts with [Sailing]","Starts with [Pottery]",
-		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
-			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
-			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
-			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
-        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
-
-    },
-	
-]
+    "defeated": "Alas, the Song Dynasty has fallen. But the legacy of our culture and achievements shall endure for all time!"
+}]
